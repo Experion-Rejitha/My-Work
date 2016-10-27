@@ -17,3 +17,4 @@ public class fact
    System.out.println("Factorial of"+n+"="+fact);
   }
 }
+cddfcfdcfcfcfcfc
